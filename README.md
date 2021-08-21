@@ -1,13 +1,13 @@
 <h1>Hi there 👋, I'm Brent Gaines!</h1>
-<h3>I am a passionate Full-Stack Web Developer and always working on leveling up my knowledge and creativity through projects.</h3>
+<h3>I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
 
-- 🔭 I’m currently working on [a dynamic weather application!](https://github.com/brentocracy.com/weather-app)
+🔭 I’m currently working on [a dynamic weather application!](https://github.com/brentocracy.com/weather-app)
 
-- 🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, jQuery**
+🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, jQuery**
 
-- 📫 Drop me a line: **worldsbestbrent@gmail.com**
+📫 Drop me a line: **worldsbestbrent@gmail.com**
 
-- ⚡ Fun fact **If you like hockey and birds, we'll be the best of friends.**
+⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

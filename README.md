@@ -1,8 +1,6 @@
 <h1>Hi there 👋, I'm Brent Gaines!</h1>
 <h3>I am a passionate Full-Stack Web Developer and always working on leveling up my knowledge and creativity through projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" /></a> </p>
-
 - 🔭 I’m currently working on [a dynamic weather application!](https://github.com/brentocracy.com/weather-app)
 
 - 🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, jQuery**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brentocracy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brentocracy" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" </p></a> 
 <a href="https://linkedin.com/in/www.linkedin.com/in/brent-gaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/brent-gaines" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/brentocracy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brentocracy" height="30" width="40" /></a>
 </p>

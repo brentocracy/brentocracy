@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Brent Gaines!</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer and always working on leveling up my knowledge and creativity through projects.</h3>
+<h1">Hi there 👋, I'm Brent Gaines!</h1>
+<h3>I am a passionate Full-Stack Web Developer and always working on leveling up my knowledge and creativity through projects.</h3>
 
 <p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" /></a> </p>
 

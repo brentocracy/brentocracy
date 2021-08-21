@@ -13,7 +13,7 @@
 <p align="left">
 <p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" </p></a> 
   <br><br>
-<a href="https://linkedin.com/in/www.linkedin.com/in/brent-gaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/brent-gaines" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brent-gaines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/brent-gaines" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/brentocracy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brentocracy" height="30" width="40" /></a>
 </p>
 

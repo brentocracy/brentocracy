@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [a dynamic weather application!](https://github.com/brentocracy.com/weather-app)
 
-🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, jQuery**
+🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, and jQuery**
 
 📫 Drop me a line: **worldsbestbrent@gmail.com**
 

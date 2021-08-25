@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&theme=blue-green" alt="brentocracy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&" alt="brentocracy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brentocracy&theme=blue-green" alt="brentocracy" /></p>

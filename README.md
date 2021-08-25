@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, and jQuery**
 
-📫 Drop me a line: **worldsbestbrent@gmail.com**
+📫 Drop me a line: **brentmatthewgaines@gmail.com**
 
 ⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be friends.**
 

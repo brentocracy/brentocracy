@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Brent Gaines!</h1>
 <h3>I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
 
-🔭 I’m currently working on [a dynamic weather application!](https://github.com/brentocracy.com/weather-app)
+🔭 I’m currently working on [a dynamic weather application!](https://brentocracy.github.io/weather-app/)
 
 🌱 I’m currently learning **Server-Side API Dynamics, Bootstrap, JavaScript, and jQuery**
 

@@ -10,7 +10,7 @@
 <br>
 <br>
 
-🔭 I’m currently working on a Professional README Generator!
+🔭 I’m currently working on an Employee Team Generator!
 
 🌱 I’m currently learning **Node**.
 

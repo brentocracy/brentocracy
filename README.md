@@ -1,5 +1,14 @@
-<h1>Hi there 👋, I'm Brent Gaines!</h1>
-<h3>I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
+<h1 align="center">Hi there 👋, I'm Brent Gaines!</h1>
+<h3 align="center">I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
+<br>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84875271/134393448-7e96fade-2074-4cdd-9bb0-2507f78124b9.jpg" alt="Banner of blurred bright colors" height="400px" width="80%">
+</p>
+
+<br>
+<br>
+<br>
 
 🔭 I’m currently working on a Professional README Generator!
 

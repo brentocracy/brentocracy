@@ -31,6 +31,9 @@
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="40" height="40"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&theme=blue-green" alt="brentocracy" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brentocracy&theme=blue-green" alt="brentocracy" /></p>

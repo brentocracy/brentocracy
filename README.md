@@ -32,6 +32,9 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
   
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&theme=blue-green" alt="brentocracy" /></p>

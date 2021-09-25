@@ -1,14 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Brent Gaines!</h1>
 <h3 align="center">I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
 <br>
-<br>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/84875271/134393448-7e96fade-2074-4cdd-9bb0-2507f78124b9.jpg" alt="Banner of blurred bright colors" height="400px" width="80%">
-</p>
-
-<br>
-<br>
-<br>
+<br
 
 🔭 I’m currently working on an Employee Team Generator!
 
@@ -30,12 +23,6 @@
 <br><br>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="40" height="40"/>
 </p>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
   
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&theme=blue-green" alt="brentocracy" /></p>
 

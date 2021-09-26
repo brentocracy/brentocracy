@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on an Employee Team Generator!
 
-🌱 I’m currently learning **Node**.
+🌱 I’m currently learning **Express.js**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

@@ -1,9 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Brent Gaines!</h1>
-<h3 align="center">I am a passionate Full-Stack Web Developer, always working on leveling up my knowledge and creativity.</h3>
-<br>
-<br
+<img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on an Employee Team Generator!
+🔭 I’m currently working on a Note-Taking/Saving app!
 
 🌱 I’m currently learning **Express.js**.
 

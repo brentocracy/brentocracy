@@ -10,7 +10,7 @@
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dsvge87d0gumxhzriyqx961wjdio8hyglh2byzt8&rid=giphy.gif&ct=g" alt="gif of coding duck with glasses" />
 
-***Note: Based on real experience***
+***Note: Based on real experience.***
 
 
 <h3 align="left">Connect with me:</h3>

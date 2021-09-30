@@ -8,6 +8,11 @@
 
 ⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be great friends.**
 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47dsvge87d0gumxhzriyqx961wjdio8hyglh2byzt8&rid=giphy.gif&ct=g" alt="gif of coding duck with glasses" />
+
+***Note: Based on real experience***
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" </p></a><br>

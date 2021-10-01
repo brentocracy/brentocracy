@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on a Note-Taking/Saving app!
+🔭 I’m currently working on a Node/MySQL-based Employee Tracker!
 
-🌱 I’m currently learning **Express.js**.
+🌱 I’m currently learning **MySQL**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

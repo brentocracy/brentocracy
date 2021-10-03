@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a Node/MySQL-based Employee Tracker!
 
-🌱 I’m currently learning **MySQL**.
+🌱 I’m currently learning **MySQL** and **Node**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a React portfolio!
 
-🌱 I’m currently learning **SQL**, **Express**, and **React**.
+🌱 I’m currently learning **Handlebars**, **Express**, and **React**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

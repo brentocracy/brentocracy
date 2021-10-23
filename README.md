@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a React portfolio and a collaborative back-end CRUD application!
 
-🌱 I’m currently learning **Handlebars**, **Express**, **MVC structure**, and **React**.
+🌱 I’m currently learning **Handlebars**, **pnpm**, **Passport**, **Express**, and **React**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

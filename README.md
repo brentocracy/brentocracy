@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on a React portfolio!
+🔭 I’m currently working on a Social Network API!
 
 🌱 I’m currently learning **MongoDB**.
 

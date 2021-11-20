@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on a Social Network API!
+🔭 I’m currently working on a Debate app!
 
-🌱 I’m currently learning **MongoDB**.
+🌱 I’m currently learning **React**.
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

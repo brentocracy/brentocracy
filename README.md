@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on a Budget Tracker app!
 
-🌱 I’m currently learning **React**.
-
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 
 ⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be great friends.**

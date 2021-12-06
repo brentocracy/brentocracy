@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on a new portfolio using React and Tailwind!
+🔭 I’m currently working on a new portfolio using React and Tailwind, and a hockey message board app using GraphQL/MongoDB/Mongoose on the back-end and React on the front-end!
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

@@ -6,6 +6,8 @@
 
 ⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be great friends.**
 
+## My Portfolio: https://brenternet.netlify.app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/brentocracy" target="blank"><img src="https://img.shields.io/twitter/follow/brentocracy?logo=twitter&style=for-the-badge" alt="brentocracy" </p></a><br>

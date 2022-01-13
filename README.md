@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
 
-🔭 I’m currently working on a MERN + Tailwind + GraphQL collaborative application for acts of kindness and volunteering!
+🔭 I’m currently working on a MERN + TypeScript blog site and better unit/integration/e2e testing for my Kindly app! 
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

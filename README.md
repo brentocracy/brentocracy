@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/brentocracy/brentocracy/main/header.png" alt="introductory banner">
+![banner](https://user-images.githubusercontent.com/84875271/150018220-b18fbc30-8cb3-4fde-a009-ad07ab82bdb1.jpg)
 
-🔭 I’m currently working on a MERN + TypeScript blog site and better unit/integration/e2e testing for my Kindly app! 
+🔭 I’m currently continuing to expand on a collaborative neighborhood volunteering and good deed app written in the MERNG stack! It's called Kindly (the repo is below).
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 
@@ -15,8 +15,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> <br>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> <br>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="express"/> <img src="https://img.shields.io/badge/MySQL-00B2FF?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> <img src="https://img.shields.io/badge/MongoDB-aliceblue?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/> <br> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=yellow" alt="react"/> <img src="https://img.shields.io/badge/GraphQL-purple?style=for-the-badge&logo=graphql&logoColor=white" alt="react"/>
+<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> <br>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="express"/> <img src="https://img.shields.io/badge/MySQL-00B2FF?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> <img src="https://img.shields.io/badge/MongoDB-aliceblue?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=yellow" alt="react"/> <img src="https://img.shields.io/badge/GraphQL-purple?style=for-the-badge&logo=graphql&logoColor=white" alt="react"/>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentocracy&count_private=true&show_icons=true&theme=yeblu" alt="brentocracy" /></p>
 

@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/84875271/150018220-b18fbc30-8cb3-4fde-a009-ad07ab82bdb1.jpg)
 
-🔭 I’m currently continuing to expand on a collaborative neighborhood volunteering and good deed app written in the MERNG stack! It's called Kindly (the repo is below).
+🔭 I’m currently collaborating on a debate app!
 
 📫 Drop me a line: **brentmatthewgaines@gmail.com**
 

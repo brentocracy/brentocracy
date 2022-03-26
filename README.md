@@ -1,8 +1,4 @@
-![banner](https://user-images.githubusercontent.com/84875271/150018220-b18fbc30-8cb3-4fde-a009-ad07ab82bdb1.jpg)
-
-🔭 I’m currently collaborating on a debate app and building a Dockerized Node/Express app template!
-
-📫 Drop me a line: **brentmatthewgaines@gmail.com**
+![banner](https://user-images.githubusercontent.com/84875271/160257580-6826b14d-6a9f-45d7-ae3f-97f424afdc79.jpg)
 
 ⚡ Fun fact: **If you like hockey and birds (or are just kind), we'll be great friends.**
 
